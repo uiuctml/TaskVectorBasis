@@ -1,7 +1,16 @@
 # Task Vector Basis
 
+[![arXiv](https://img.shields.io/badge/arXiv-2502.01015-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2502.01015)
+[![OpenReview](https://img.shields.io/badge/OpenReview-zkc7u3mIaE-8c1b13?logo=openreview&logoColor=white)](https://openreview.net/forum?id=zkc7u3mIaE)
+[![GitHub](https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white)](https://github.com/uiuctml/TaskVectorBasis)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Checkpoints-FFD21E)](https://huggingface.co/cindy2000sh/TaskVectorBasis-checkpoints)
+
 This is the official repository implementing the task vector **basis** algorithms from
-[Task Vector Bases: A Unified and Scalable Framework for Compressed Task Arithmetic](https://openreview.net/forum?id=zkc7u3mIaE).
+[Task Vector Bases: A Unified and Scalable Framework for Compressed Task Arithmetic](https://openreview.net/forum?id=zkc7u3mIaE) at TMLR.
+
+<p align="center">
+  <img src="assets/teaser.png" alt="Task vector basis addition: AE and PCA bases recover the task-addition direction." width="55%">
+</p>
 
 ## Introduction
 
